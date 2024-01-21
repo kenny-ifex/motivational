@@ -1,0 +1,18 @@
+#imago{
+    height: 200;
+    width: 400px;
+    padding-top: 20px;
+}
+.cover{
+    width: 500px;
+    height: 400px;
+    background-color: blueviolet;
+    text-align: center;
+    margin-left: 200px;
+}
+p{
+    color: rgb(184, 186, 178);
+    background-color:rgb(87, 48, 48);
+    font-weight: bold;
+    height: 50px;
+}
